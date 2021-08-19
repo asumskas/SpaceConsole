@@ -1,0 +1,13 @@
+C:\SpaceConsole\SpaceConsole\SpaceConsole\bin\Debug\netcoreapp3.1\SpaceConsole.exe
+C:\SpaceConsole\SpaceConsole\SpaceConsole\bin\Debug\netcoreapp3.1\SpaceConsole.deps.json
+C:\SpaceConsole\SpaceConsole\SpaceConsole\bin\Debug\netcoreapp3.1\SpaceConsole.runtimeconfig.json
+C:\SpaceConsole\SpaceConsole\SpaceConsole\bin\Debug\netcoreapp3.1\SpaceConsole.runtimeconfig.dev.json
+C:\SpaceConsole\SpaceConsole\SpaceConsole\bin\Debug\netcoreapp3.1\SpaceConsole.dll
+C:\SpaceConsole\SpaceConsole\SpaceConsole\bin\Debug\netcoreapp3.1\SpaceConsole.pdb
+C:\SpaceConsole\SpaceConsole\SpaceConsole\obj\Debug\netcoreapp3.1\SpaceConsole.AssemblyInfoInputs.cache
+C:\SpaceConsole\SpaceConsole\SpaceConsole\obj\Debug\netcoreapp3.1\SpaceConsole.AssemblyInfo.cs
+C:\SpaceConsole\SpaceConsole\SpaceConsole\obj\Debug\netcoreapp3.1\SpaceConsole.csproj.CoreCompileInputs.cache
+C:\SpaceConsole\SpaceConsole\SpaceConsole\obj\Debug\netcoreapp3.1\SpaceConsole.dll
+C:\SpaceConsole\SpaceConsole\SpaceConsole\obj\Debug\netcoreapp3.1\SpaceConsole.pdb
+C:\SpaceConsole\SpaceConsole\SpaceConsole\obj\Debug\netcoreapp3.1\SpaceConsole.genruntimeconfig.cache
+C:\SpaceConsole\SpaceConsole\SpaceConsole\obj\Debug\netcoreapp3.1\SpaceConsole.csprojAssemblyReference.cache
